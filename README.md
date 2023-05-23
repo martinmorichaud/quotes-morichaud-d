@@ -9,5 +9,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-mayer-d](https://github.com/clement-mayer/quotes-mayer-d)
-- `contributor-2`: [quotes-wizz-b](url-2)
+- `contributor-2`: [quotes-fornier-b](https://github.com/C-raf-1/quotes-fournier-d)
 - `contributor-3`: [quotes-toto-b](url-3)
