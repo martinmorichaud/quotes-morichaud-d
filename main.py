@@ -4,7 +4,8 @@ def menu():
     print("\n==== Programming Quotes ====")
     print("1. Random quote")
     print("2. All quotes")
-    print("4. display_quotes")
+    print("3. Add_quote")
+    print("4. Display_quotes")
     print("5. Exit")
 
 def main():
@@ -18,6 +19,8 @@ def main():
             print_quote(random_quote(quotes))
         elif choice == "2":
             view_quotes(quotes)
+        elif choice == "3":
+            add_quote(quotes, "quotes.txt")
         elif choice == "5":
             print("Good bye...")
         elif choice == "4": # gestion de display_count()
