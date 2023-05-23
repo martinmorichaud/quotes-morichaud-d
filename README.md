@@ -8,6 +8,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-2`: MAYER Clément D
 
 ## Fork urls
-- `contributor-1`: [quotes-mayer-d](url-1)
+- `contributor-1`: [quotes-mayer-d](https://github.com/clement-mayer/quotes-mayer-d)
 - `contributor-2`: [quotes-wizz-b](url-2)
 - `contributor-3`: [quotes-toto-b](url-3)
